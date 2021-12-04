@@ -2,8 +2,6 @@
  * not to provide it to anyone else.
  */
 
-/* DO NOT MODIFY THIS FILE OR YOUR CODE WILL NOT COMPILE ON THE SUBMIT
-   SERVER */
 
 #if !defined(GRAPH_UTILS_H)
 #define GRAPH_UTILS_H
