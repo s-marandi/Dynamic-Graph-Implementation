@@ -1,7 +1,4 @@
-/* (c) Larry Herman, 2020.  You are allowed to use this code yourself, but
- * not to provide it to anyone else.
- */
-
+/* (c) Larry Herman, 2020. 
 
 #if !defined(GRAPH_UTILS_H)
 #define GRAPH_UTILS_H
