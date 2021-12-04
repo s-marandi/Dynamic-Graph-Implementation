@@ -1,4 +1,3 @@
-/* (c) Larry Herman, 2020. 
 
 #if !defined(GRAPH_UTILS_H)
 #define GRAPH_UTILS_H
