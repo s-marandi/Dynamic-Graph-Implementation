@@ -5,15 +5,6 @@
 #include "graph-utils.h"
 
 /*
- * Saman Marandi
- * 117536586
- * section 0107
- * I pledge on my honor that I have not
- * given or recieved any unauthorized help
- * doing this assignemnt.
- */
-
-/*
  * This is a program that manipulates the elemenets
  * of a graph. A graph is consisted of vertices that
  * contain name and have edges to other vertices.
